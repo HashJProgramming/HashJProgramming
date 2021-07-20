@@ -10,12 +10,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HashJProgramming/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/JoshuaM2017)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCBBgGTaV4uoVkjo7nTiCC_Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hashjprogramming.web.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/HashJProgramming/)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/HashJProgramming/)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/HashJProgramming/)  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=Simple-CRUD-Google-Firebase)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashJProgramming)](https://github.com/anuraghazra/github-readme-stats)
 

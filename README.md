@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hash'J
+### Hi there 👋, I'm Joshua
 #### from Philippines
 ![from Philippines]
 

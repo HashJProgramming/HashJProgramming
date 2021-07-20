@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Joshua
 #### from Philippines
-![from Philippines]
 
  I really enjoy coding and learning, as well as developing and designing a program, I also like Google firebase as Google-backed application development software
 

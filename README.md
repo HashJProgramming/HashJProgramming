@@ -4,7 +4,7 @@
  I really enjoy coding and learning, as well as developing and designing a program, I also like Google firebase as Google-backed application development software
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Node.JS - REACT.JS 
+- 🌱 I’m currently Studying.
 
 [<img src='https://hashjprogramming.web.app/Assets/Images/Background.png' alt='github'>](https://github.com/HashJProgramming/)
 

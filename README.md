@@ -12,6 +12,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=One-Knight-Stand-Bot)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=OksGamingSite)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=PLDTDictionary)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=Matematika)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=MySQL-Simple-CRUD)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=Simple-Student-Information-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HashJProgramming&repo=Firebase-CRUD-CSharp)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashJProgramming)](https://github.com/anuraghazra/github-readme-stats)
 

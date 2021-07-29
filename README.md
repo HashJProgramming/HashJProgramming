@@ -3,7 +3,7 @@
 
  I really enjoy coding and learning, as well as developing and designing a program, I also like Google firebase
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I'm just a Newbie.
 - 🌱 I’m currently Studying.
 
 [<img src='https://hashjprogramming.web.app/Assets/Images/Background.png' alt='github'>](https://github.com/HashJProgramming/)

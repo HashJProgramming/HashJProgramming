@@ -1,9 +1,6 @@
-## Hi there 👋, I'm Joshua Ambalong
-## from the Philippines
-
+## Hi there 👋, I'm Joshua Ambalong from the Philippines
 - 🌱 I’m currently Studying.
 
-## What I used:
 
 ### Programming Languages
 - ![Static Badge](https://img.shields.io/badge/C%2B%2B_Programming_Language-Programming?style=for-the-badge&logo=C%2B%2B&logoColor=blue&color=white)

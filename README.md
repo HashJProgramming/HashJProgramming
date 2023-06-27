@@ -35,15 +35,9 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap_Studio-Programming?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&color=snow)
 
 
-### Microcontrollers
-  ![Static Badge](https://img.shields.io/badge/Arduino-Programming?style=for-the-badge&logo=arduino&logoColor=%2300979D&color=snow)
-  ![Static Badge](https://img.shields.io/badge/RaspberryPi-Programming?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=snow)
-
 ### Operating System
-![Static Badge](https://img.shields.io/badge/Raspberry_PI_OS-Programming?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=snow)
 ![Static Badge](https://img.shields.io/badge/Windows_11-Programming?style=for-the-badge&logo=windows11&logoColor=%230078D4&color=snow)
 ![Static Badge](https://img.shields.io/badge/Linux-Programming?style=for-the-badge&logo=linux&logoColor=black&color=snow)
-![Static Badge](https://img.shields.io/badge/Kali_Linux-Programming?style=for-the-badge&logo=kalilinux&logoColor=%23557C94&color=snow)
 
 
   

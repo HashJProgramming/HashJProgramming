@@ -10,16 +10,16 @@
 
 
 - ![Static Badge](https://img.shields.io/badge/JavaScript-Programming?style=for-the-badge&logo=javascript&color=snow)
-  ![Static Badge](https://img.shields.io/badge/Node.Js-Programming?style=for-the-badge&logo=node.js&logoColor=green&color=snow)
-  ![Static Badge](https://img.shields.io/badge/TypeScript-Programming?style=for-the-badge&logo=typescript&logoColor=blue&color=snow)
-  ![Static Badge](https://img.shields.io/badge/React-Programming?style=for-the-badge&logo=react&logoColor=blue&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/Node.Js-Programming?style=for-the-badge&logo=node.js&logoColor=green&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/TypeScript-Programming?style=for-the-badge&logo=typescript&logoColor=blue&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/React-Programming?style=for-the-badge&logo=react&logoColor=blue&color=snow)
   
 - ![Static Badge](https://img.shields.io/badge/Python_Programming_Language-Programming?style=for-the-badge&logo=python&color=white)
   - ![Static Badge](https://img.shields.io/badge/Flask-Programming?style=for-the-badge&logo=flask&logoColor=red&color=snow)
-    ![Static Badge](https://img.shields.io/badge/PyCord-Programming?style=for-the-badge&logo=discord&logoColor=%235865F2&color=snow)
-    ![Static Badge](https://img.shields.io/badge/Numpy-Programming?style=for-the-badge&logo=numpy&logoColor=%23013243&color=snow)
-    ![Static Badge](https://img.shields.io/badge/Django-Programming?style=for-the-badge&logo=django&logoColor=%23092E20&color=snow)
-    ![Static Badge](https://img.shields.io/badge/Socket.IO-Programming?style=for-the-badge&logo=socketdotio&logoColor=%23010101&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/PyCord-Programming?style=for-the-badge&logo=discord&logoColor=%235865F2&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/Numpy-Programming?style=for-the-badge&logo=numpy&logoColor=%23013243&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/Django-Programming?style=for-the-badge&logo=django&logoColor=%23092E20&color=snow)
+  - ![Static Badge](https://img.shields.io/badge/Socket.IO-Programming?style=for-the-badge&logo=socketdotio&logoColor=%23010101&color=snow)
 
 
 ### Databases

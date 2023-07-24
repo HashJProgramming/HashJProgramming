@@ -3,11 +3,7 @@
 
 
 ### Programming Languages
-- ![Static Badge](https://img.shields.io/badge/CShaRP-Programming?style=for-the-badge&logo=csharp&logoColor=green&color=snow)
-![Static Badge](https://img.shields.io/badge/PHP-Programming?style=for-the-badge&logo=php&logoColor=%23777BB4&color=snow)
-
-- ![Static Badge](https://img.shields.io/badge/JavaScript-Programming?style=for-the-badge&logo=javascript&color=snow)
-- ![Static Badge](https://img.shields.io/badge/Python-Programming?style=for-the-badge&logo=python&color=white)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HashJProgramming\&layout=compact)
 
 
 

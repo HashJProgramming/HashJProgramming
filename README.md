@@ -1,11 +1,7 @@
 ## Hi there 👋, I'm Joshua Ambalong from the Philippines
 - 🌱 I’m currently Studying.
 
-
-### Programming Languages
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HashJProgramming\&layout=compact)
-
-
 
 ### Databases
 ![Static Badge](https://img.shields.io/badge/Google_Firebase-Programming?style=for-the-badge&logo=firebase&color=white)

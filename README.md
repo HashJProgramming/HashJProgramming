@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Joshua Ambalong from the Philippines
 - 🌱 I’m currently Studying.
 
-### 📦My Statistics 
+### 📦Statistics 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashjprogramming)
 - ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HashJProgramming\&layout=compact)
 

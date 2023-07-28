@@ -7,8 +7,12 @@
 ## 📦About Me
 - Hi there 👋, I'm Joshua Ambalong from the Philippines
 - 🌱 I’m currently Studying.
+- 📦 I don't know what I am doing right now.
+- ❤️ I love to learn to gain more knowledge.
+- 💻 I suck at written programming exams.
 
-  
+ <div align="center">
+   
 ### 📦 Language & Tool Proficiencies
 | Programming Language                     | Integrated development environment       | Database                                 | Operating System
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------
@@ -17,9 +21,11 @@
 | ![Static Badge](https://img.shields.io/badge/CSharp-white?style=for-the-badge&logo=csharp&logoColor=green) |![Static Badge](https://img.shields.io/badge/Visual_Studio_2020-Programming?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91&color=snow) | ![Static Badge](https://img.shields.io/badge/MongoDB-Programming?style=for-the-badge&logo=mongodb&logoColor=green&color=snow) |
 | ![Static Badge](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP) | |![Static Badge](https://img.shields.io/badge/SQLite-Programming?style=for-the-badge&logo=sqlite&logoColor=yellow&color=snow)| |
 
+</div>
+
+<div align="center">
+  
 ### 📦Statistics 
 ![hashjprogramming's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashjprogramming&theme=tokyonight&hide_border=true)
 
-
-
-  
+</div>

@@ -18,6 +18,8 @@
 | ![Static Badge](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP) | |![Static Badge](https://img.shields.io/badge/SQLite-Programming?style=for-the-badge&logo=sqlite&logoColor=yellow&color=snow)| |
 
 ### 📦Statistics 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HashJProgramming\&layout=compact)
+![hashjprogramming's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashjprogramming&theme=tokyonight&hide_border=true)
+
+
 
   

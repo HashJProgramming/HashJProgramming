@@ -10,7 +10,7 @@
 
   
 ### 📦 Language & Tool Proficiencies
-| Programming Language                     | IDEs                                     | Database                                 | Operating System
+| Programming Language                     | Integrated development environment       | Database                                 | Operating System
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------
 | ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) | ![Static Badge](https://img.shields.io/badge/Bootstrap_Studio-Programming?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&color=snow) | ![Static Badge](https://img.shields.io/badge/Google_Firebase-Programming?style=for-the-badge&logo=firebase&color=white)|![Static Badge](https://img.shields.io/badge/Windows-Programming?style=for-the-badge&logo=windows11&logoColor=%230078D4&color=snow) | 
 | ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) | ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-Programming?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&color=snow) |![Static Badge](https://img.shields.io/badge/Mysql-Programming?style=for-the-badge&logo=mysql&color=white)| ![Static Badge](https://img.shields.io/badge/Linux-Programming?style=for-the-badge&logo=linux&logoColor=black&color=snow) |

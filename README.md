@@ -7,13 +7,11 @@
 ## 📦About Me
 - Hi there 👋, I'm Joshua Ambalong from the Philippines
 - 🌱 I’m currently Studying.
-- 📦 I don't know what I am doing right now.
-- ❤️ I love to learn to gain more knowledge.
-- 💻 I suck at written programming exams.
+- 💻 Hmmmm.
 
  <div align="center">
    
-### 📦 Language & Tool Proficiencies
+### 📦 What do I use?
 | Programming Language                     | Integrated development environment       | Database                                 | Operating System
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------------
 | ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) | ![Static Badge](https://img.shields.io/badge/Bootstrap_Studio-Programming?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&color=snow) | ![Static Badge](https://img.shields.io/badge/Google_Firebase-Programming?style=for-the-badge&logo=firebase&color=white)|![Static Badge](https://img.shields.io/badge/Windows-Programming?style=for-the-badge&logo=windows11&logoColor=%230078D4&color=snow) | 

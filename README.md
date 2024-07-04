@@ -6,8 +6,31 @@
 
 ## 📦About Me
 - Hi there 👋, I'm Joshua Ambalong from the Philippines
-- 🌱 I’m currently Studying.
-- 💻 Hmmmm.
+- 🌱 I am a software developer with 7 years of experience. I excel in problem-solving and am consistently eager to learn new technologies. I have completed several certification courses, including:
+
+- Programming for Beginners Using Python (Department of Information and Communications Technology, April 26, 2022)
+- Programming for Intermediate Users Using Python (Department of Information and Communications Technology, April 27, 2022)
+- Learn Basic Statistics with Python (Department of Information and Communications Technology, May 7, 2022)
+- NDG Linux Unhatched course (Cisco Networking Academy, April 23, 2024)
+N- DG Linux Essentials course (Cisco Networking Academy, April 23, 2024)
+
+## 📦Education / Experience
+I recently graduated with a Bachelor of Science in Information Systems (BSIS) from Zamboanga Del Sur Provincial Government College - Pagadian on June 30, 2024. During my On-the-Job Training (OJT) at Zamboanga Del Sur Medical Center - Pagadian City from January 26, 2024, to April 30, 2024, I had the opportunity to contribute significantly to various software systems. 
+
+Under the supervision of **Mr. Roseller A. Romanos** (ITO-I/Database Admin) at the MIS office, I designed, developed, and implemented several systems aimed at enhancing hospital operations, including
+
+- ZDSMC Official Web
+- ZDSMC e-Referral System
+- ZDSMC BroadcastSocketClient
+- ZDSMC FileSystemSearch
+- ZDSMC Charts Tracking System
+- ZDSMC Charts Tracking System NextJS
+- ZDSMC Chrome Extension
+- ZDSMC HelpDesk (Bot)
+
+Additionally, I created repositories for all projects and uploaded them to my GitHub account.
+
+These activities provided me with practical experience, improved my outlook, and helped me build strong interpersonal relationships with my co-trainees and department employees. This experience serves as a valuable stepping stone for my future career.
 
  <div align="center">
    

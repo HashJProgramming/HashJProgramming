@@ -1,6 +1,6 @@
 ## 📦About Me
 - Hi there 👋, I'm Joshua Ambalong from the Philippines
-- 🌱 I am a software developer with 7 years of experience. I excel in problem-solving and am consistently eager to learn new technologies. I have completed several certification courses, including:
+- 🌱 I am a software developer. I excel in problem-solving and am consistently eager to learn new technologies. I have completed several certification courses, including:
     - Programming for Beginners Using Python (Department of Information and Communications Technology, April 26, 2022)
     - Programming for Intermediate Users Using Python (Department of Information and Communications Technology, April 27, 2022)
     - Learn Basic Statistics with Python (Department of Information and Communications Technology, May 7, 2022)

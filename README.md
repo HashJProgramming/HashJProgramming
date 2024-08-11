@@ -7,24 +7,6 @@
     - NDG Linux Unhatched course (Cisco Networking Academy, April 23, 2024)
     - NDG Linux Essentials course (Cisco Networking Academy, April 23, 2024)
 
-## 📦Education / Experience
-I recently graduated with a Bachelor of Science in Information Systems (BSIS) from Zamboanga Del Sur Provincial Government College - Pagadian on June 30, 2024. During my On-the-Job Training (OJT) at Zamboanga Del Sur Medical Center - Pagadian City from January 26, 2024, to April 30, 2024, I had the opportunity to contribute significantly to various software systems. 
-
-Under the supervision of **Mr. Roseller A. Romanos** (ITO-I/Database Admin) at the MIS office, I designed, developed, and implemented several systems aimed at enhancing hospital operations, including:
-
-- ZDSMC Official Web
-- ZDSMC e-Referral System
-- ZDSMC BroadcastSocketClient
-- ZDSMC FileSystemSearch
-- ZDSMC Charts Tracking System
-- ZDSMC Charts Tracking System NextJS
-- ZDSMC Chrome Extension
-- ZDSMC HelpDesk (Bot)
-
-Additionally, I created repositories for all projects and uploaded them to my GitHub account.
-
-These activities provided me with practical experience, improved my outlook, and helped me build strong interpersonal relationships with my co-trainees and department employees. This experience serves as a valuable stepping stone for my future career.
-
  <div align="center">
    
 ### 📦 What do I use?

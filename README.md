@@ -1,11 +1,7 @@
 ## 📦About Me
 - Hi there 👋, I'm Joshua Ambalong from the Philippines
-- 🌱 I am a software developer. I excel in problem-solving and am consistently eager to learn new technologies. I have completed several certification courses, including:
-    - Programming for Beginners Using Python (Department of Information and Communications Technology, April 26, 2022)
-    - Programming for Intermediate Users Using Python (Department of Information and Communications Technology, April 27, 2022)
-    - Learn Basic Statistics with Python (Department of Information and Communications Technology, May 7, 2022)
-    - NDG Linux Unhatched course (Cisco Networking Academy, April 23, 2024)
-    - NDG Linux Essentials course (Cisco Networking Academy, April 23, 2024)
+- 🌱 I'm just a programmer. I excel in problem-solving and am consistently eager to learn new technologies.
+
 
  <div align="center">
    

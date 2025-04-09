@@ -1,7 +1,5 @@
 ## 📦About Me
-- Hi there 👋, I'm Joshua Ambalong from the Philippines
-- 🌱 I'm just a programmer. I excel in problem-solving and am consistently eager to learn new technologies.
-
+- Hi there 👋, I'm Joshua
 
  <div align="center">
    
